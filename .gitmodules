@@ -1,0 +1,3 @@
+[submodule "Rogers-Hackathon"]
+	path = Rogers-Hackathon
+	url = https://github.com/Julian-Mentasti/Rogers-Hackathon.git
